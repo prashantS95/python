@@ -1,5 +1,3 @@
-#calculates the total marks and percentage based on input marks for five subjects and displays the results
-
 sub1=int(input("Enter marks of sub1 = "))
 sub2=int(input("Enter marks of sub2 = "))
 sub3=int(input("Enter marks of sub3 = "))
